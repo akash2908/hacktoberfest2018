@@ -71,4 +71,5 @@ public class DFS
         }	
         scanner.close();	
     }	
+	System.out.println("Done");
 }
